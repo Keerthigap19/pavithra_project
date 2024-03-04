@@ -1,0 +1,24 @@
+.dashboard{
+    background: rgb(224,134,173);
+    background: radial-gradient(circle, rgba(224,134,173,1) 0%, rgba(148,184,233,1) 100%);
+    height: 550px;
+    display: flex;
+    flex-direction:column;
+    align-items:center;
+    gap:10px;
+    font-size: 500px;
+    padding: 50px;
+}
+.dashboard button{
+    width:200px;
+    height:70px;
+    color: #ffffff;
+    background:#142d4c;
+    margin-top: 20px;
+    border-radius:75px;
+    border: none;
+    font-size: 30px;
+    font-weight: 500;
+    cursor: pointer;
+    
+}

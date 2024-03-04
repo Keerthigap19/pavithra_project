@@ -1,0 +1,58 @@
+.loginopt{
+    width: 100%;
+    height: 100vh;
+    background-image:url(https://cdn.dribbble.com/users/3601595/screenshots/17036526/media/e8793a9366549ea3022df2a644f35786.gif);
+    background-position:-100px;
+    background-size: cover;
+    padding-top: 100px;
+   
+   
+}
+.loginopt button{
+    width:200px;
+    height:70px;
+    color: #ffffff;
+    background:#142d4c;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    border-radius:75px;
+    border: none;
+    font-size: 30px;
+    font-weight: 500;
+    cursor: pointer;
+    margin-left: 80px;
+
+}
+
+.loginopt-containers{
+    width: 500px;
+    height: 60vh;
+    background-image: url(https://ih1.redbubble.net/image.4742609972.5539/st,small,507x507-pad,600x600,f8f8f8.jpg);
+    margin: auto;
+    padding: 40px 50px;
+    border-radius: 5%; 
+    margin-right: 2px;
+    background-position:-80px;
+    align-items: center;
+    
+}
+.choose{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width:400px;
+    height:50px;
+    border-radius: 75px;
+    margin-top: 50px;
+    margin-left: 0px;
+    margin-bottom:-500px;
+    background: #042b53;
+    color:white;
+    font-size:22px;
+    font-weight: 500;
+}
+.login button:hover{
+    color: #142d4c;
+    background-color: white;
+    
+}
